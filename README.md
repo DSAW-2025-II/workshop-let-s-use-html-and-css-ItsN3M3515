@@ -23,6 +23,3 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 ### Créditos
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-### Nombre: Pablo Andres Tamayo Gonzalez
-### ID: 341631
-#### Github: ItsN3M3515
