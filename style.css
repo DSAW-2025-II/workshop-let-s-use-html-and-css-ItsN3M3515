@@ -1,12 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif:wght@400&family=Outfit:wght@400;600;700&display=swap'); /* Esto es para importar la fuente */
 
 body {
-    background-color: #f3e5d8;
+    background-color: hsl(30, 54%, 90%);
     font-family: 'Outfit', sans-serif;
+    font-size: 16px; 
+    margin: 0;
+    padding: 40px 20px;
 }
 
 h1 {
     font-family: 'Young Serif', serif;
+    color: hsl(24, 5%, 18%);
+    font-size: 2.25rem;
+    margin: 32px 0 24px 0;
+}
+
+h2 {
+    font-family: 'Young Serif', serif;
+    color: hsl(14, 45%, 36%);
+    font-size: 1.75rem;
+    margin: 32px 0 16px 0;
 }
 
 .recipe-image { /* Para que la imagen sirva  y no se salga del div*/
