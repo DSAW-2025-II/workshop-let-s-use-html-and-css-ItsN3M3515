@@ -27,4 +27,3 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 
 ### Nombre: Pablo Andrés Tamayo González
 ### ID: 341631
-### Github: ItsN3M3515
