@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif:wght@400&family=Outfit:wght@400;600;700&display=swap'); /* Esto es para importar la fuente */
+
+body {
+    background-color: #f3e5d8;
+    font-family: 'Outfit', sans-serif; /* Use Outfit as the main body font */
+}
+
+h1 {
+    font-family: 'Young Serif', serif; /* Young Serif for headings */
+}
